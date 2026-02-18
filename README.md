@@ -1,2 +1,2 @@
-this gilr is for production read and only for 
+this repo is for production read and only for 
 pracrice dont need to be fork this repo 
