@@ -13,10 +13,8 @@ jobs:
   #This is github runners , each job runs on runner 
     runs-on: ubuntu-latest
     steps:
-      -name: say hello to users 
-       run: echo "hello dosto"
+      - name: say hello to users
+        run: echo "hello dosto"
 
-      -name: say hello to user name 
-       run: echo "hello $USER"
-
-  
+      - name: say hello to username 
+        run: echo "hello $USER"
